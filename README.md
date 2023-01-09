@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: Astha Sharma](https://img.shields.io/badge/-AsthaSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/astha-sharma-69ab6b231/)](https://www.linkedin.com/in/astha-sharma-69ab6b231/)
-[![GitHub sharmaastha2002](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/sharmaastha2002)
+[![GitHub sharmaastha2002](https://img.shields.io/github/followers/sharmaastha2002?label=follow&style=social)](https://github.com/sharmaastha2002)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
