@@ -12,11 +12,11 @@
 ```javascript
 const astha = {
   pronouns: "she" | "her",
-  code: [Javascript, HTML, CSS, Python, C++],
-  tools: [React, Node, Tensorflow, Keras],
+  code: [Java, Javascript, HTML, CSS, Python, C++],
+  frameworks: [Spring Boot, React.JS, Node.JS, Tensorflow, Keras],
   interests:[Competitive Programming, Research, Problem Solving],
   hobbies:[Dancing, Singing, Reading Books],
- challenge: "I am working on myself and exploring various Technologies."
+  challenge: "I am working on myself and exploring various Technologies."
 }
 ```
 
